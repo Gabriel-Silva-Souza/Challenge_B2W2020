@@ -41,4 +41,4 @@ Funcionalidades:
     <li> Bot para receber o feedack do candidato, sobre como foi a entrevista  </li>
     <li> Visualizacao do ranking dos candidatos inscritos em determinada vaga </li>
   </ol>
-  <h4>Link para apresentacao do funcionamento do projeto: <a> https://drive.google.com/file/d/16QFxzMfc3vb7XLCwd2AXwo9QYwB9D0hD/view?usp=sharing </a> </h4>
+  <h4>Link para apresentacao do funcionamento do projeto: <a>https://drive.google.com/file/d/16QFxzMfc3vb7XLCwd2AXwo9QYwB9D0hD/view?usp=sharing</a> </h4>
