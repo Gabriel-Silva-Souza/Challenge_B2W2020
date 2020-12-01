@@ -1,20 +1,24 @@
 # Challenge_B2W2020
-<h4><b>Repositório feito para o armazenado do WebApp criado pelo grupo Smile da 1TDSJ da faculdade FIAP, com o tema de Employee Experience imposto pela empresa B2W</b></h4>
+<h4><b>Repositório feito para o armazenado do WebApp criado pelo grupo Smile da 1TDSJ da faculdade FIAP, com o tema de Employee Experience imposto pela empresa B2W</b></h4><br>
+
 Atualmente no mundo corporativo não é sempre que nos deparamos com processos seletivos e entrevistas que contribuam para um crescimento profissional através de
 um feedback eficiente e que durante o processo seletivo diferentes entrevistadores
 podem ter diferentes critérios de avaliação para cada candidato que está concorrendo
-uma mesma vaga, gerando diferentes relatórios.
+uma mesma vaga, gerando diferentes relatórios.<br>
+
 Acreditamos que a implementação de uma ferramenta que faz uma padronização
 para as entrevistas de uma determinada vaga com critérios específicos torna o
 processo seletivo mais justo e entregar um feedback sobre o seu desempenho na
 entrevista para o candidato contribui de forma positiva para a sua evolução
-profissional, enriquecendo ainda mais o processo.
+profissional, enriquecendo ainda mais o processo.<br>
+
 Os principais objetivos desse projeto são automatizar e acelerar a análise e
 feedback durante o processo de admissão de novos associados além de atuar em
 entrevistas de diversas áreas simultaneamente de modo que ao final delas gere um
 feedback para o candidato de como ele foi na entrevista, contribuindo para que o
 mesmo se torne cada vez mais competente e no final das entrevistas para a vaga
-concorrida possa auxiliar o entrevistador a selecionar a pessoa mais qualificada
+concorrida possa auxiliar o entrevistador a selecionar a pessoa mais qualificada.<br>
+
 O projeto consiste no desenvolvimento de uma ferramenta que possibilita o
 entrevistador ter controle sobre todas as vagas em aberto com a possibilidade de criar
 um template (padrão) para cada vaga, fazendo com que todos os candidatos para
