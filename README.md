@@ -30,3 +30,13 @@ link que o direciona para uma página com um chatbot configurado para captar as 
 observações sobre a entrevista, entrevistador e o resultado do feedback. Ao final de
 todo processo seletivo será gerado um ranking dos melhores candidatos, facilitando
 assim a análise do entrevistador.
+
+Funcionalidades: 
+  <ol>
+    <li> Validacao de email e senha </li>
+    <li> Criacao de vaga </li>
+    <li> Edicao de vaga </li>
+    <li> Envio de Email </li>
+    <li> Insercao de candidato nas vagas criadas </li>
+    <li> Visualizacao do ranking dos candidatos inscritos em determinada vaga </li>
+  </ol>
