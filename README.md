@@ -38,5 +38,7 @@ Funcionalidades:
     <li> Edicao de vaga </li>
     <li> Envio de Email </li>
     <li> Insercao de candidato nas vagas criadas </li>
+    <li> Envio de email para o email do candidato, com link para um bot </li>
+    <li> Bot para receber o feedack do candidato, sobre como foi a entrevista  </li>
     <li> Visualizacao do ranking dos candidatos inscritos em determinada vaga </li>
   </ol>
